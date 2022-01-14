@@ -30,5 +30,8 @@
 |          | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12932.java) |
 |          | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12930.java) |
 |          | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12928.java) |
-|          | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12932)                   |                                                                                                      |
+|          | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12932)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12926.java) |
+|          | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12932)                   |                                                                                                      |
+|          | [나누어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)        | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12910.java) |
+|          | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12906.java) |
 |          | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12932)                   |                                                                                                      |
