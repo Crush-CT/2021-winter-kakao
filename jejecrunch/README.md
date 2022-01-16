@@ -31,7 +31,10 @@
 |          | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12930.java) |
 |          | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12928.java) |
 |          | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12932)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12926.java) |
-|          | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12932)                   |                                                                                                      |
+|          | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12921.java) |
 |          | [나누어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)        | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12910.java) |
 |          | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12906.java) |
-|          | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12932)                   |                                                                                                      |
+| 탐욕법   | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                      | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42862.java) |
+| 완전탐색 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)                    |                                                                                                      |
+| 탐욕법   | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42862)                    |                                                                                                      |
+| 해시     | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)          |                                                                                                      |
