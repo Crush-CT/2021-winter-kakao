@@ -40,9 +40,9 @@
 | 해시     | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42576.java) |
 |          | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12953.java) |
 |          | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12951.java) |
-|          | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)                 |                                                                                                      |
-|          | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)                 |                                                                                                      |
-|          | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)               |                                                                                                      |
+|          | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12949.java) |
+|          | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12945.java) |
+|          | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)               | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12941.java) |
 |          | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)             |                                                                                                      |
 |          | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                 |                                                                                                      |
 |          | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)                    |                                                                                                      |
