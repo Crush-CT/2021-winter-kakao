@@ -9,7 +9,7 @@
 | 1    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)               | 2019     |                                                                                                      |
 | 1    | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 2019     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/64061.java) |
 | 1    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/42889)        | 2020     |                                                                                                      |
-| 1    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | 2021     |                                                                                                      |
+| 1    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/81301.java) |
 | 1    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)     | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/72410.java) |
 | 2    | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)     | 2018     |                                                                                                      |
 | 2    | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)    | 2018     |                                                                                                      |
@@ -43,7 +43,11 @@
 |          | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12949.java) |
 |          | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12945.java) |
 |          | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)               | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12941.java) |
-|          | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)             |                                                                                                      |
+|          | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12939.java) |
 |          | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                 |                                                                                                      |
 |          | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)                    |                                                                                                      |
+|          | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)                |                                                                                                      |
+|          | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12909.java) |
+|          | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)       |                                                                                                      |
 | 탐욕법   | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42862)                    |                                                                                                      |
+| 완전탐색 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42862)                        |                                                                                                      |
