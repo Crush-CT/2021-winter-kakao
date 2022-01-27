@@ -14,6 +14,7 @@
 | 2    | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)     | 2018     |                                                                                                      |
 | 2    | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)    | 2018     |                                                                                                      |
 | 2    | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)           | 2018     |                                                                                                      |
+|      |                                                                                  |          | **3**                                                                                                |
 
 #
 
@@ -51,3 +52,18 @@
 |          | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)       |                                                                                                      |
 | 탐욕법   | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42862)                    |                                                                                                      |
 | 완전탐색 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42862)                        |                                                                                                      |
+|          |                                                                                         | **27**                                                                                               |
+
+#
+
+-   백준 단계별로 풀어보기
+
+| 카테고리          | 제목                                                                           | 풀이 여부                                                                                                   |
+| ----------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| 입출력과 사칙연산 | [??!](https://www.acmicpc.net/problem/10926)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Surprised_10926.java) |
+| 입출력과 사칙연산 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/BUDtoAD_18108.java)   |
+| 브루트포스        | [블랙잭](https://www.acmicpc.net/problem/2798)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Blackjack_2798.java)  |
+| 브루트포스        | [분해합](https://www.acmicpc.net/problem/2231)                                 |                                                                                                             |
+| 브루트포스        | [덩치](https://www.acmicpc.net/problem/7568)                                   |                                                                                                             |
+| 브루트포스        | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)                     |                                                                                                             |
+|                   |                                                                                | **3**                                                                                                       |
