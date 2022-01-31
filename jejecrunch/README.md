@@ -68,4 +68,7 @@
 | 브루트포스        | [덩치](https://www.acmicpc.net/problem/7568)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Bulk_7568.java)         |
 | 브루트포스        | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)                     |                                                                                                               |
 | 브루트포스        | [영화감독 숌](https://www.acmicpc.net/problem/1436)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/DirectorSyom_1436.java) |
-|                   |                                                                                | **6**                                                                                                         |
+| 브루트포스        | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                            |                                                                                                               |
+| 정렬              | [수 정렬하기](https://www.acmicpc.net/problem/2750)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber_2750.java)   |
+| 정렬              | [수 정렬하기2](https://www.acmicpc.net/problem/2751)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber2_2751.java)  |
+|                   |                                                                                | **8**                                                                                                         |
