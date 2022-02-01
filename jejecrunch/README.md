@@ -5,7 +5,7 @@
 | 단계 | 제목                                                                             | 출제연도 | 풀이 여부                                                                                            |
 | ---- | -------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------- |
 | 1    | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)      | 2018     |                                                                                                      |
-| 1    | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)       | 2018     |                                                                                                      |
+| 1    | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)       | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17681.java) |
 | 1    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)               | 2019     |                                                                                                      |
 | 1    | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 2019     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/64061.java) |
 | 1    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/42889)        | 2020     |                                                                                                      |
@@ -15,7 +15,7 @@
 | 2    | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)     | 2018     |                                                                                                      |
 | 2    | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)    | 2018     |                                                                                                      |
 | 2    | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)           | 2018     |                                                                                                      |
-|      |                                                                                  |          | **4**                                                                                                |
+|      |                                                                                  |          | **5**                                                                                                |
 
 #
 
@@ -68,7 +68,7 @@
 | 브루트포스        | [덩치](https://www.acmicpc.net/problem/7568)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Bulk_7568.java)         |
 | 브루트포스        | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)                     |                                                                                                               |
 | 브루트포스        | [영화감독 숌](https://www.acmicpc.net/problem/1436)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/DirectorSyom_1436.java) |
-| 브루트포스        | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                            |                                                                                                               |
+| 브루트포스        | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SevenDwarfs_2309.java)  |
 | 정렬              | [수 정렬하기](https://www.acmicpc.net/problem/2750)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber_2750.java)   |
 | 정렬              | [수 정렬하기2](https://www.acmicpc.net/problem/2751)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber2_2751.java)  |
-|                   |                                                                                | **8**                                                                                                         |
+|                   |                                                                                | **9**                                                                                                         |
