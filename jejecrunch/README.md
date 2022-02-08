@@ -4,7 +4,7 @@
 
 | 단계 | 제목                                                                             | 출제연도 | 풀이 여부                                                                                            |
 | ---- | -------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------- |
-| 1    | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)      | 2018     |                                                                                                      |
+| 1    | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)      | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17682.java) |
 | 1    | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)       | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17681.java) |
 | 1    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)               | 2019     |                                                                                                      |
 | 1    | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 2019     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/64061.java) |
@@ -15,7 +15,7 @@
 | 2    | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)     | 2018     |                                                                                                      |
 | 2    | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)    | 2018     |                                                                                                      |
 | 2    | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)           | 2018     |                                                                                                      |
-|      |                                                                                  |          | **6**                                                                                                |
+|      |                                                                                  |          | **7**                                                                                                |
 
 #
 
@@ -59,24 +59,28 @@
 
 -   백준 단계별로 풀어보기
 
-| 카테고리          | 제목                                                                           | 풀이 여부                                                                                                       |
-| ----------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| 입출력과 사칙연산 | [??!](https://www.acmicpc.net/problem/10926)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Surprised_10926.java)     |
-| 입출력과 사칙연산 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/BUDtoAD_18108.java)       |
-| 브루트포스        | [블랙잭](https://www.acmicpc.net/problem/2798)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Blackjack_2798.java)      |
-| 브루트포스        | [분해합](https://www.acmicpc.net/problem/2231)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Decompose_2231.java)      |
-| 브루트포스        | [덩치](https://www.acmicpc.net/problem/7568)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Bulk_7568.java)           |
-| 브루트포스        | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)                     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Repaint_1018.java)        |
-| 브루트포스        | [영화감독 숌](https://www.acmicpc.net/problem/1436)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/DirectorSyom_1436.java)   |
-| 브루트포스        | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SevenDwarfs_2309.java)    |
-| 정렬              | [수 정렬하기](https://www.acmicpc.net/problem/2750)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber_2750.java)     |
-| 정렬              | [수 정렬하기2](https://www.acmicpc.net/problem/2751)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber2_2751.java)    |
-| 정렬              | [수 정렬하기3](https://www.acmicpc.net/problem/10989)                          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber3_10989.java)   |
-| 정렬              | [통계학](https://www.acmicpc.net/problem/2108)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Statistics_2108.java)     |
-| 정렬              | [소트인사이드](https://www.acmicpc.net/problem/1427)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortInside_1427.java)     |
-| 정렬              | [좌표 정렬하기](https://www.acmicpc.net/problem/11650)                         | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortLocation_11650.java)  |
-| 정렬              | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)                       | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortLocation2_11651.java) |
-| 정렬              | [단어 정렬](https://www.acmicpc.net/problem/1181)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Word_1181.java)           |
-| 정렬              | [나이순 정렬](https://www.acmicpc.net/problem/10814)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortOlder_10814.java)     |
-| 정렬              | [좌표 압축](https://www.acmicpc.net/problem/18870)                             |                                                                                                                 |
-|                   |                                                                                | **17**                                                                                                          |
+| 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
+| ----------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| 입출력과 사칙연산 | [??!](https://www.acmicpc.net/problem/10926)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Surprised_10926.java)            |
+| 입출력과 사칙연산 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/BUDtoAD_18108.java)              |
+| 브루트포스        | [블랙잭](https://www.acmicpc.net/problem/2798)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Blackjack_2798.java)             |
+| 브루트포스        | [분해합](https://www.acmicpc.net/problem/2231)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Decompose_2231.java)             |
+| 브루트포스        | [덩치](https://www.acmicpc.net/problem/7568)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Bulk_7568.java)                  |
+| 브루트포스        | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)                     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Repaint_1018.java)               |
+| 브루트포스        | [영화감독 숌](https://www.acmicpc.net/problem/1436)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/DirectorSyom_1436.java)          |
+| 브루트포스        | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SevenDwarfs_2309.java)           |
+| 정렬              | [수 정렬하기](https://www.acmicpc.net/problem/2750)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber_2750.java)            |
+| 정렬              | [수 정렬하기2](https://www.acmicpc.net/problem/2751)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber2_2751.java)           |
+| 정렬              | [수 정렬하기3](https://www.acmicpc.net/problem/10989)                          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber3_10989.java)          |
+| 정렬              | [통계학](https://www.acmicpc.net/problem/2108)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Statistics_2108.java)            |
+| 정렬              | [소트인사이드](https://www.acmicpc.net/problem/1427)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortInside_1427.java)            |
+| 정렬              | [좌표 정렬하기](https://www.acmicpc.net/problem/11650)                         | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortLocation_11650.java)         |
+| 정렬              | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)                       | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortLocation2_11651.java)        |
+| 정렬              | [단어 정렬](https://www.acmicpc.net/problem/1181)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Word_1181.java)                  |
+| 정렬              | [나이순 정렬](https://www.acmicpc.net/problem/10814)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortOlder_10814.java)            |
+| 정렬              | [좌표 압축](https://www.acmicpc.net/problem/18870)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/LocationComporession_18870.java) |
+| 수                | [1](https://www.acmicpc.net/problem/4375)                                      | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/One_4375.java)                   |
+| 수                | [약수](https://www.acmicpc.net/problem/1037)                                   |                                                                                                                        |
+| 수                | [약수의 합](https://www.acmicpc.net/problem/17425)                             |                                                                                                                        |
+| 수                | [약수의 합 2](https://www.acmicpc.net/problem/17427)                           |                                                                                                                        |
+|                   |                                                                                | **18**                                                                                                                 |
