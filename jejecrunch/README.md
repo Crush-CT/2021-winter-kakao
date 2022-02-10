@@ -6,7 +6,7 @@
 | ---- | -------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------- |
 | 1    | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)      | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17682.java) |
 | 1    | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)       | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17681.java) |
-| 1    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)               | 2019     |                                                                                                      |
+| 1    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)               | 2019     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42889.java) |
 | 1    | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 2019     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/64061.java) |
 | 1    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)        | 2020     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/67256.java) |
 | 1    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/81301.java) |
@@ -15,11 +15,13 @@
 | 2    | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)     | 2018     |                                                                                                      |
 | 2    | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)    | 2018     |                                                                                                      |
 | 2    | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)           | 2018     |                                                                                                      |
-|      |                                                                                  |          | **7**                                                                                                |
+|      |                                                                                  |          | **8**                                                                                                |
 
 #
 
--   프로그래머스 연습 문제
+<details>
+<summary>프로그래머스 연습 문제 (28문제)</summary>
+<div markdown="1">
 
 | 카테고리 | 제목                                                                                    | 풀이 여부                                                                                            |
 | -------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -53,11 +55,13 @@
 |          | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)       |                                                                                                      |
 | 탐욕법   | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42862)                    |                                                                                                      |
 | 완전탐색 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42862)                        |                                                                                                      |
-|          |                                                                                         | **28**                                                                                               |
 
-#
+</div>
+</details>
 
--   백준 단계별로 풀어보기
+<details>
+<summary>백준 단계별로 풀어보기 (21문제)</summary>
+<div markdown="1">
 
 | 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
 | ----------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -80,7 +84,10 @@
 | 정렬              | [나이순 정렬](https://www.acmicpc.net/problem/10814)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortOlder_10814.java)            |
 | 정렬              | [좌표 압축](https://www.acmicpc.net/problem/18870)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/LocationComporession_18870.java) |
 | 수                | [1](https://www.acmicpc.net/problem/4375)                                      | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/One_4375.java)                   |
-| 수                | [약수](https://www.acmicpc.net/problem/1037)                                   |                                                                                                                        |
+| 수                | [약수](https://www.acmicpc.net/problem/1037)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Divisior_1037.java)              |
 | 수                | [약수의 합](https://www.acmicpc.net/problem/17425)                             |                                                                                                                        |
 | 수                | [약수의 합 2](https://www.acmicpc.net/problem/17427)                           |                                                                                                                        |
-|                   |                                                                                | **18**                                                                                                                 |
+| 수                | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)                | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/GCD_LCM_2609.java)               |
+
+</div>
+</details>
