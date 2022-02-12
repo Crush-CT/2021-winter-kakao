@@ -20,7 +20,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (28문제)</summary>
+<summary>프로그래머스 연습 문제 (26문제)</summary>
 <div markdown="1">
 
 | 카테고리 | 제목                                                                                    | 풀이 여부                                                                                            |
@@ -50,7 +50,7 @@
 |          | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12939.java) |
 |          | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12924.java) |
 |          | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)                    |                                                                                                      |
-|          | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)                |                                                                                                      |
+|          | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)                | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12911.java) |
 |          | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12909.java) |
 |          | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)       |                                                                                                      |
 | 탐욕법   | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42862)                    |                                                                                                      |
