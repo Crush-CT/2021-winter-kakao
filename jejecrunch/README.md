@@ -20,7 +20,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (31문제)</summary>
+<summary>프로그래머스 연습 문제 (35문제)</summary>
 <div markdown="1">
 
 | 카테고리   | 제목                                                                                    | 풀이 여부                                                                                            |
@@ -55,12 +55,17 @@
 | BFS, DP    | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)       | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12905.java) |
 | 탐욕법     | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)                    | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42885.java) |
 | 완전탐색   | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                        | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42842.java) |
-| 스택, 큐   | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)          |                                                                                                      |
-| 정렬       | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)                     |                                                                                                      |
+| 스택, 큐   | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42583.java) |
+| 정렬       | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)                     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42747.java) |
 | 해시       | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                        |                                                                                                      |
 | 탐욕법     | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                    |                                                                                                      |
 | 완전탐색   | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42839.java) |
-| 정렬       | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                  |                                                                                                      |
+| 정렬       | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                  | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42746.java) |
+| 스택, 큐   | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)                      |                                                                                                      |
+| DFS, BFS   | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                   |                                                                                                      |
+| 스택, 큐   | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)                    |                                                                                                      |
+|            | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)             |                                                                                                      |
+|            | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12946.java) |
 
 </div>
 </details>
