@@ -20,7 +20,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (35문제)</summary>
+<summary>프로그래머스 연습 문제 (37문제)</summary>
 <div markdown="1">
 
 | 카테고리   | 제목                                                                                    | 풀이 여부                                                                                            |
@@ -57,11 +57,11 @@
 | 완전탐색   | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)                        | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42842.java) |
 | 스택, 큐   | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42583.java) |
 | 정렬       | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)                     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42747.java) |
-| 해시       | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                        |                                                                                                      |
+| 해시       | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                        | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42578.java) |
 | 탐욕법     | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                    |                                                                                                      |
 | 완전탐색   | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42839.java) |
 | 정렬       | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                  | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42746.java) |
-| 스택, 큐   | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)                      |                                                                                                      |
+| 스택, 큐   | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)                      | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42587.java) |
 | DFS, BFS   | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                   |                                                                                                      |
 | 스택, 큐   | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)                    |                                                                                                      |
 |            | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)             |                                                                                                      |
@@ -71,13 +71,15 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (26문제)</summary>
+<summary>백준 단계별로 풀어보기 (28문제)</summary>
 <div markdown="1">
 
 | 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
 | ----------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | 입출력과 사칙연산 | [??!](https://www.acmicpc.net/problem/10926)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Surprised_10926.java)            |
 | 입출력과 사칙연산 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/BUDtoAD_18108.java)              |
+| if문              | [오븐 시계](https://www.acmicpc.net/problem/2525)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/OvenClock_2525.java)             |
+| if문              | [오븐 시계](https://www.acmicpc.net/problem/2525)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/OvenClock_2525.java)             |
 | 브루트포스        | [블랙잭](https://www.acmicpc.net/problem/2798)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Blackjack_2798.java)             |
 | 브루트포스        | [분해합](https://www.acmicpc.net/problem/2231)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Decompose_2231.java)             |
 | 브루트포스        | [덩치](https://www.acmicpc.net/problem/7568)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Bulk_7568.java)                  |
