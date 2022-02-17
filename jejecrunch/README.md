@@ -71,7 +71,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (26문제)</summary>
+<summary>백준 단계별로 풀어보기 (28문제)</summary>
 <div markdown="1">
 
 | 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
