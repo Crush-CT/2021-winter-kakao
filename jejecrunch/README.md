@@ -2,25 +2,34 @@
 
 -   프로그래머스 카카오 출제 문제
 
-| 단계 | 제목                                                                             | 출제연도 | 풀이 여부                                                                                            |
-| ---- | -------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------- |
-| 1    | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)      | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17682.java) |
-| 1    | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)       | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17681.java) |
-| 1    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)               | 2019     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42889.java) |
-| 1    | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 2019     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/64061.java) |
-| 1    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)        | 2020     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/67256.java) |
-| 1    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/81301.java) |
-| 1    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)     | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/72410.java) |
-| 1    | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)       | 2022     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/92334.java) |
-| 2    | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)     | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17687.java) |
-| 2    | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)    | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17686.java) |
-| 2    | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)           | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17684.java) |
-|      |                                                                                  |          | **11**                                                                                               |
+| 단계 | 제목                                                                              | 출제연도 | 풀이 여부                                                                                            |
+| ---- | --------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------- |
+| 1    | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)       | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17682.java) |
+| 1    | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)        | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17681.java) |
+| 1    | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)                | 2019     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42889.java) |
+| 1    | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)  | 2019     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/64061.java) |
+| 1    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)         | 2020     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/67256.java) |
+| 1    | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)  | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/81301.java) |
+| 1    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)      | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/72410.java) |
+| 1    | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)        | 2022     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/92334.java) |
+| 2    | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)      | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17687.java) |
+| 2    | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)     | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17686.java) |
+| 2    | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)            | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17684.java) |
+| 2    | [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17684)        | 2018     |                                                                                                      |
+| 2    | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17684)            | 2018     |                                                                                                      |
+| 2    | [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17684)     | 2018     |                                                                                                      |
+| 2    | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17684) | 2018     |                                                                                                      |
+| 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/17684)                | 2019     |                                                                                                      |
+| 2    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/17684)                  | 2019     |                                                                                                      |
+| 2    | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/17684)           | 2020     |                                                                                                      |
+| 2    | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/17684)             | 2020     |                                                                                                      |
+| 2    | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)              | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/72412.java) |
+|      |                                                                                   |          | **12**                                                                                               |
 
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (39문제)</summary>
+<summary>프로그래머스 연습 문제 (40문제)</summary>
 <div markdown="1">
 
 | 카테고리   | 제목                                                                                    | 풀이 여부                                                                                            |
@@ -58,7 +67,7 @@
 | 스택, 큐   | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42583.java) |
 | 정렬       | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)                     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42747.java) |
 | 해시       | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)                        | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42578.java) |
-| 탐욕법     | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                    |                                                                                                      |
+| 탐욕법     | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                    | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42860.java) |
 | 완전탐색   | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42839.java) |
 | 정렬       | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                  | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42746.java) |
 | 스택, 큐   | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)                      | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42587.java) |
@@ -71,7 +80,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (31문제)</summary>
+<summary>백준 단계별로 풀어보기 (37문제)</summary>
 <div markdown="1">
 
 | 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
@@ -103,10 +112,12 @@
 | 정렬              | [단어 정렬](https://www.acmicpc.net/problem/1181)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Word_1181.java)                  |
 | 정렬              | [나이순 정렬](https://www.acmicpc.net/problem/10814)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortOlder_10814.java)            |
 | 정렬              | [좌표 압축](https://www.acmicpc.net/problem/18870)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/LocationComporession_18870.java) |
-| 백트래킹          | [N과 M (1)](https://www.acmicpc.net/problem/15649)                             |                                                                                                                        |
-| 백트래킹          | [N과 M (2)](https://www.acmicpc.net/problem/15650)                             |                                                                                                                        |
-| 백트래킹          | [N과 M (3)](https://www.acmicpc.net/problem/15651)                             |                                                                                                                        |
-| 백트래킹          | [N과 M (4)](https://www.acmicpc.net/problem/15652)                             |                                                                                                                        |
+| 백트래킹          | [N과 M (1)](https://www.acmicpc.net/problem/15649)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM1_15649.java)               |
+| 백트래킹          | [N과 M (2)](https://www.acmicpc.net/problem/15650)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM2_15650.java)               |
+| 백트래킹          | [N과 M (3)](https://www.acmicpc.net/problem/15651)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM3_15651.java)               |
+| 백트래킹          | [N과 M (4)](https://www.acmicpc.net/problem/15652)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM4_15652.java)               |
+| 백트래킹          | [N과 M (5)](https://www.acmicpc.net/problem/15654)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM5_15654.java)               |
+| 백트래킹          | [N과 M (6)](https://www.acmicpc.net/problem/15655)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM6_15655.java)               |
 | 백트래킹          | [N-Queen](https://www.acmicpc.net/problem/9663)                                |                                                                                                                        |
 | 백트래킹          | [스도쿠](https://www.acmicpc.net/problem/2580)                                 |                                                                                                                        |
 | 백트래킹          | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                       |                                                                                                                        |
