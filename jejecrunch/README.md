@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (37문제)</summary>
+<summary>백준 단계별로 풀어보기 (39문제)</summary>
 <div markdown="1">
 
 | 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
@@ -118,6 +118,8 @@
 | 백트래킹          | [N과 M (4)](https://www.acmicpc.net/problem/15652)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM4_15652.java)               |
 | 백트래킹          | [N과 M (5)](https://www.acmicpc.net/problem/15654)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM5_15654.java)               |
 | 백트래킹          | [N과 M (6)](https://www.acmicpc.net/problem/15655)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM6_15655.java)               |
+| 백트래킹          | [N과 M (7)](https://www.acmicpc.net/problem/15656)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM7_15656.java)               |
+| 백트래킹          | [N과 M (8)](https://www.acmicpc.net/problem/15657)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM8_15657.java)               |
 | 백트래킹          | [N-Queen](https://www.acmicpc.net/problem/9663)                                |                                                                                                                        |
 | 백트래킹          | [스도쿠](https://www.acmicpc.net/problem/2580)                                 |                                                                                                                        |
 | 백트래킹          | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                       |                                                                                                                        |
