@@ -22,9 +22,9 @@
 | 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/17684)                | 2019     |                                                                                                      |
 | 2    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/17684)                  | 2019     |                                                                                                      |
 | 2    | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/17684)           | 2020     |                                                                                                      |
-| 2    | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/17684)             | 2020     |                                                                                                      |
+| 2    | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)             | 2020     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/60058.java) |
 | 2    | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)              | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/72412.java) |
-|      |                                                                                   |          | **12**                                                                                               |
+|      |                                                                                   |          | **13**                                                                                               |
 
 #
 
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (39문제)</summary>
+<summary>백준 단계별로 풀어보기 (44문제)</summary>
 <div markdown="1">
 
 | 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
@@ -120,6 +120,11 @@
 | 백트래킹          | [N과 M (6)](https://www.acmicpc.net/problem/15655)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM6_15655.java)               |
 | 백트래킹          | [N과 M (7)](https://www.acmicpc.net/problem/15656)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM7_15656.java)               |
 | 백트래킹          | [N과 M (8)](https://www.acmicpc.net/problem/15657)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM8_15657.java)               |
+| 백트래킹          | [N과 M (9)](https://www.acmicpc.net/problem/15663)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM9_15663.java)               |
+| 백트래킹          | [N과 M (10)](https://www.acmicpc.net/problem/15664)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM10_15664.java)              |
+| 백트래킹          | [N과 M (11)](https://www.acmicpc.net/problem/15665)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM11_15665.java)              |
+| 백트래킹          | [N과 M (12)](https://www.acmicpc.net/problem/15666)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM12_15666.java)              |
+| 백트래킹          | [NM과 K (1)](https://www.acmicpc.net/problem/18290)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NMandK1_18290.java)              |
 | 백트래킹          | [N-Queen](https://www.acmicpc.net/problem/9663)                                |                                                                                                                        |
 | 백트래킹          | [스도쿠](https://www.acmicpc.net/problem/2580)                                 |                                                                                                                        |
 | 백트래킹          | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                       |                                                                                                                        |
