@@ -29,7 +29,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (40문제)</summary>
+<summary>프로그래머스 연습 문제 (41문제)</summary>
 <div markdown="1">
 
 | 카테고리   | 제목                                                                                    | 풀이 여부                                                                                            |
@@ -71,7 +71,7 @@
 | 완전탐색   | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42839.java) |
 | 정렬       | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)                  | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42746.java) |
 | 스택, 큐   | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)                      | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42587.java) |
-| DFS, BFS   | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                   |                                                                                                      |
+| DFS, BFS   | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/43165.java) |
 | 스택, 큐   | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)                    | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42586.java) |
 |            | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12899.java) |
 |            | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12946.java) |
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (44문제)</summary>
+<summary>백준 단계별로 풀어보기 (48문제)</summary>
 <div markdown="1">
 
 | 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
@@ -99,7 +99,7 @@
 | 브루트포스        | [날짜 계산](https://www.acmicpc.net/problem/1476)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/CalDate_1476.java)               |
 | 브루트포스        | [리모컨](https://www.acmicpc.net/problem/1107)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Remote_1107.java)                |
 | 브루트포스        | [테트로미노](https://www.acmicpc.net/problem/14500)                            |                                                                                                                        |
-| 브루트포스        | [카잉 달력](https://www.acmicpc.net/problem/6064)                              |                                                                                                                        |
+| 브루트포스        | [카잉 달력](https://www.acmicpc.net/problem/6064)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/CaingCalendar_6064.java)         |
 | 브루트포스        | [수 이어 쓰기 1](https://www.acmicpc.net/problem/6064)                         | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NewNumber1_1748.java)            |
 | 브루트포스, DP    | [1, 2, 3 더하기](https://www.acmicpc.net/problem/6064)                         | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Sum_123_9095.java)               |
 | 정렬              | [수 정렬하기](https://www.acmicpc.net/problem/2750)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber_2750.java)            |
@@ -129,12 +129,16 @@
 | 백트래킹          | [스도쿠](https://www.acmicpc.net/problem/2580)                                 |                                                                                                                        |
 | 백트래킹          | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                       |                                                                                                                        |
 | 백트래킹          | [스타트와 링크](https://www.acmicpc.net/problem/14889)                         |                                                                                                                        |
-| 수                | [1](https://www.acmicpc.net/problem/4375)                                      | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/One_4375.java)                   |
-| 수                | [약수](https://www.acmicpc.net/problem/1037)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Divisior_1037.java)              |
-| 수, DP            | [약수의 합](https://www.acmicpc.net/problem/17425)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SumDivisor_17425.java)           |
-| 수, DP            | [약수의 합 2](https://www.acmicpc.net/problem/17427)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SumDivisor2_17427.java)          |
-| 수                | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)                | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/GCD_LCM_2609.java)               |
-| 수                | [골드바흐의 추측](https://www.acmicpc.net/problem/6588)                        | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/GoldBach_6588.java)              |
+| 수학              | [평균 점수](https://www.acmicpc.net/problem/10039)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/AverageScore_10039.java)         |
+| 수학              | [1](https://www.acmicpc.net/problem/4375)                                      | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/One_4375.java)                   |
+| 수학              | [약수](https://www.acmicpc.net/problem/1037)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Divisior_1037.java)              |
+| 수학, DP          | [약수의 합](https://www.acmicpc.net/problem/17425)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SumDivisor_17425.java)           |
+| 수학, DP          | [약수의 합 2](https://www.acmicpc.net/problem/17427)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SumDivisor2_17427.java)          |
+| 수학              | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)                | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/GCD_LCM_2609.java)               |
+| 수학              | [골드바흐의 추측](https://www.acmicpc.net/problem/6588)                        | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/GoldBach_6588.java)              |
+| 수학              | [피보나치 수](https://www.acmicpc.net/problem/2747)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Fibonacci1_2747.java)            |
+| 수학              | [피보나치 수 2](https://www.acmicpc.net/problem/2748)                          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Fibonacci2_2748.java)            |
+| 수학              | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                          |                                                                                                                        |
 
 </div>
 </details>
