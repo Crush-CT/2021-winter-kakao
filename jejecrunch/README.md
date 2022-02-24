@@ -18,13 +18,13 @@
 | 2    | [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17684)        | 2018     |                                                                                                      |
 | 2    | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17684)            | 2018     |                                                                                                      |
 | 2    | [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17684)     | 2018     |                                                                                                      |
-| 2    | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17684) | 2018     |                                                                                                      |
+| 2    | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17677.java) |
 | 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/17684)                | 2019     |                                                                                                      |
 | 2    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/17684)                  | 2019     |                                                                                                      |
 | 2    | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/17684)           | 2020     |                                                                                                      |
 | 2    | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)             | 2020     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/60058.java) |
 | 2    | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)              | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/72412.java) |
-|      |                                                                                   |          | **13**                                                                                               |
+|      |                                                                                   |          | **14**                                                                                               |
 
 #
 
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (48문제)</summary>
+<summary>백준 단계별로 풀어보기 (49문제)</summary>
 <div markdown="1">
 
 | 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
@@ -98,7 +98,7 @@
 | 브루트포스        | [사탕 게임](https://www.acmicpc.net/problem/3085)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/CandyGame_3085.java)             |
 | 브루트포스        | [날짜 계산](https://www.acmicpc.net/problem/1476)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/CalDate_1476.java)               |
 | 브루트포스        | [리모컨](https://www.acmicpc.net/problem/1107)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Remote_1107.java)                |
-| 브루트포스        | [테트로미노](https://www.acmicpc.net/problem/14500)                            |                                                                                                                        |
+| 브루트포스        | [테트로미노](https://www.acmicpc.net/problem/14500)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Tetromino_14500.java)            |
 | 브루트포스        | [카잉 달력](https://www.acmicpc.net/problem/6064)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/CaingCalendar_6064.java)         |
 | 브루트포스        | [수 이어 쓰기 1](https://www.acmicpc.net/problem/6064)                         | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NewNumber1_1748.java)            |
 | 브루트포스, DP    | [1, 2, 3 더하기](https://www.acmicpc.net/problem/6064)                         | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Sum_123_9095.java)               |
