@@ -29,7 +29,7 @@
 #
 
 <details>
-<summary>프로그래머스 연습 문제 (41문제)</summary>
+<summary>프로그래머스 연습 문제 (43문제)</summary>
 <div markdown="1">
 
 | 카테고리   | 제목                                                                                    | 풀이 여부                                                                                            |
@@ -75,12 +75,14 @@
 | 스택, 큐   | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)                    | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/42586.java) |
 |            | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12899.java) |
 |            | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12946.java) |
+|            | [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)                     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12952.java) |
+|            | [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938)                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/12938.java) |
 
 </div>
 </details>
 
 <details>
-<summary>백준 단계별로 풀어보기 (49문제)</summary>
+<summary>백준 단계별로 풀어보기 (51문제)</summary>
 <div markdown="1">
 
 | 카테고리          | 제목                                                                           | 풀이 여부                                                                                                              |
@@ -125,8 +127,8 @@
 | 백트래킹          | [N과 M (11)](https://www.acmicpc.net/problem/15665)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM11_15665.java)              |
 | 백트래킹          | [N과 M (12)](https://www.acmicpc.net/problem/15666)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM12_15666.java)              |
 | 백트래킹          | [NM과 K (1)](https://www.acmicpc.net/problem/18290)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NMandK1_18290.java)              |
-| 백트래킹          | [N-Queen](https://www.acmicpc.net/problem/9663)                                |                                                                                                                        |
-| 백트래킹          | [스도쿠](https://www.acmicpc.net/problem/2580)                                 |                                                                                                                        |
+| 백트래킹          | [N-Queen](https://www.acmicpc.net/problem/9663)                                | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NQueen_9663.java)                |
+| 백트래킹          | [스도쿠](https://www.acmicpc.net/problem/2580)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Sudoku_2580.java)                |
 | 백트래킹          | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                       |                                                                                                                        |
 | 백트래킹          | [스타트와 링크](https://www.acmicpc.net/problem/14889)                         |                                                                                                                        |
 | 수학              | [평균 점수](https://www.acmicpc.net/problem/10039)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/AverageScore_10039.java)         |

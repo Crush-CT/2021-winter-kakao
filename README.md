@@ -5,6 +5,15 @@
 
 #
 
+### 멤버별 리포지터리
+
+-   [jejecrunch](https://github.com/Crush-CT/2021-winter-kakao/tree/main/jejecrunch)
+-   [H2SU](https://github.com/Crush-CT/2021-winter-kakao/tree/main/H2SU)
+-   [myungju030](https://github.com/Crush-CT/2021-winter-kakao/tree/main/myungju030)
+-   [injong8461](https://github.com/Crush-CT/2021-winter-kakao/tree/main/injong8461)
+
+#
+
 ### 참고
 
 -   [코딩테스트 스터디 그룹](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
