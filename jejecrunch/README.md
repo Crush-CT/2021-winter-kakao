@@ -84,7 +84,6 @@
 | 입출력과 사칙연산 | [??!](https://www.acmicpc.net/problem/10926)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Surprised_10926.java)            |
 | 입출력과 사칙연산 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/BUDtoAD_18108.java)              |
 | if문              | [오븐 시계](https://www.acmicpc.net/problem/2525)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/OvenClock_2525.java)             |
-| if문              | [오븐 시계](https://www.acmicpc.net/problem/2525)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/OvenClock_2525.java)             |
 | 브루트포스        | [블랙잭](https://www.acmicpc.net/problem/2798)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Blackjack_2798.java)             |
 | 브루트포스        | [분해합](https://www.acmicpc.net/problem/2231)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Decompose_2231.java)             |
 | 브루트포스        | [덩치](https://www.acmicpc.net/problem/7568)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Bulk_7568.java)                  |
@@ -132,7 +131,6 @@
 | 수학              | [골드바흐의 추측](https://www.acmicpc.net/problem/6588)                        | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/GoldBach_6588.java)              |
 | 수학              | [피보나치 수](https://www.acmicpc.net/problem/2747)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Fibonacci1_2747.java)            |
 | 수학              | [피보나치 수 2](https://www.acmicpc.net/problem/2748)                          | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Fibonacci2_2748.java)            |
-| 수학              | [피보나치 수 3](https://www.acmicpc.net/problem/2749)                          |                                                                                                                        |
 
 </div>
 </details>
