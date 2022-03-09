@@ -15,13 +15,7 @@
 | 2    | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)      | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17687.java) |
 | 2    | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)     | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17686.java) |
 | 2    | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684)            | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17684.java) |
-| 2    | [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17684)        | 2018     |                                                                                                      |
-| 2    | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17684)            | 2018     |                                                                                                      |
-| 2    | [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17684)     | 2018     |                                                                                                      |
 | 2    | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | 2018     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/17677.java) |
-| 2    | [후보키](https://programmers.co.kr/learn/courses/30/lessons/17684)                | 2019     |                                                                                                      |
-| 2    | [튜플](https://programmers.co.kr/learn/courses/30/lessons/17684)                  | 2019     |                                                                                                      |
-| 2    | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/17684)           | 2020     |                                                                                                      |
 | 2    | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)             | 2020     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/60058.java) |
 | 2    | [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412)              | 2021     | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/programmers/72412.java) |
 |      |                                                                                   |          | **14**                                                                                               |
@@ -101,7 +95,7 @@
 | 브루트포스        | [날짜 계산](https://www.acmicpc.net/problem/1476)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/CalDate_1476.java)               |
 | 브루트포스        | [리모컨](https://www.acmicpc.net/problem/1107)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Remote_1107.java)                |
 | 브루트포스        | [테트로미노](https://www.acmicpc.net/problem/14500)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Tetromino_14500.java)            |
-| 브루트포스        | [카잉 달력](https://www.acmicpc.net/problem/6064)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/CaingCalendar_6064.java)         |
+| 브루트포스        | [카잉 달력](https://www.acmicpc.net/problem/6064)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/CaingCalender_6064.java)         |
 | 브루트포스        | [수 이어 쓰기 1](https://www.acmicpc.net/problem/6064)                         | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NewNumber1_1748.java)            |
 | 브루트포스, DP    | [1, 2, 3 더하기](https://www.acmicpc.net/problem/6064)                         | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Sum_123_9095.java)               |
 | 정렬              | [수 정렬하기](https://www.acmicpc.net/problem/2750)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortNumber_2750.java)            |
@@ -111,7 +105,7 @@
 | 정렬              | [소트인사이드](https://www.acmicpc.net/problem/1427)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortInside_1427.java)            |
 | 정렬              | [좌표 정렬하기](https://www.acmicpc.net/problem/11650)                         | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortLocation_11650.java)         |
 | 정렬              | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)                       | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortLocation2_11651.java)        |
-| 정렬              | [단어 정렬](https://www.acmicpc.net/problem/1181)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Word_1181.java)                  |
+| 정렬              | [단어 정렬](https://www.acmicpc.net/problem/1181)                              | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Words_1181.java)                  |
 | 정렬              | [나이순 정렬](https://www.acmicpc.net/problem/10814)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SortOlder_10814.java)            |
 | 정렬              | [좌표 압축](https://www.acmicpc.net/problem/18870)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/LocationComporession_18870.java) |
 | 백트래킹          | [N과 M (1)](https://www.acmicpc.net/problem/15649)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NandM1_15649.java)               |
@@ -129,11 +123,9 @@
 | 백트래킹          | [NM과 K (1)](https://www.acmicpc.net/problem/18290)                            | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NMandK1_18290.java)              |
 | 백트래킹          | [N-Queen](https://www.acmicpc.net/problem/9663)                                | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/NQueen_9663.java)                |
 | 백트래킹          | [스도쿠](https://www.acmicpc.net/problem/2580)                                 | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Sudoku_2580.java)                |
-| 백트래킹          | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                       |                                                                                                                        |
-| 백트래킹          | [스타트와 링크](https://www.acmicpc.net/problem/14889)                         |                                                                                                                        |
 | 수학              | [평균 점수](https://www.acmicpc.net/problem/10039)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/AverageScore_10039.java)         |
 | 수학              | [1](https://www.acmicpc.net/problem/4375)                                      | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/One_4375.java)                   |
-| 수학              | [약수](https://www.acmicpc.net/problem/1037)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Divisior_1037.java)              |
+| 수학              | [약수](https://www.acmicpc.net/problem/1037)                                   | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/Divisor_1037.java)              |
 | 수학, DP          | [약수의 합](https://www.acmicpc.net/problem/17425)                             | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SumDivisor_17425.java)           |
 | 수학, DP          | [약수의 합 2](https://www.acmicpc.net/problem/17427)                           | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/SumDivisor2_17427.java)          |
 | 수학              | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)                | [**O**](https://github.com/jejecrunch/2021-winter-kakao/blob/main/jejecrunch/BAEKJOON/GCD_LCM_2609.java)               |
